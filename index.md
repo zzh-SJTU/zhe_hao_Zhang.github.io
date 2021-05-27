@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Sophomore student at Shanghai Jiao Tong University
 
 ## Research Interests
 

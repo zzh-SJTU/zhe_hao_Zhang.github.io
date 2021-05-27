@@ -11,6 +11,8 @@ I am a Sophomore student at Shanghai Jiao Tong University
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
+## My blog
+- My private blog can be found at
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).

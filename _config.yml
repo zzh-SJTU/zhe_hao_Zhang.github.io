@@ -4,10 +4,10 @@ email: zzh12138@sjtu.edu.cn
 keywords: minimal academic
 github_link: https://github.com/zzh-SJTU
 linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/IMG_5918.JPG
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/IMG_5918.JPG
+favicon_dark: ./assets/img/favicon.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light

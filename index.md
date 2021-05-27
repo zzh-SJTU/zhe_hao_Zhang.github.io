@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Sophomore student at Shanghai Jiao Tong University
+I am a Sophomore student at Shanghai Jiao Tong University, my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing) can be found here.
 
 ## Research Interests
 

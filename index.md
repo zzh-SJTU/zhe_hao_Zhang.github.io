@@ -28,12 +28,12 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 
 ## Experience
 
-- **multi-agent visual dialog system**
-  Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
+ **multi-agent visual dialog system**
+  -Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
   the exploration methods after that.
 
-- **Intern in Stat NLP group**
-  Recently, I have become a research intern in Stat NLP group, under the
+ **Intern in Stat NLP group**
+ -Recently, I have become a research intern in Stat NLP group, under the
 supervision of Prof.Wei Lu. I have learned the classic NLP model such as Word2Vec, Glove, BERT and
 so on. After that, I have built a Seq2Seq model including a multi-layer LSTM encoder and decoder with attention.
 

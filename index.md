@@ -10,7 +10,7 @@ sufficient experience in research and always be passionate about diving into cut
 AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
 
 
-<font color="#00dddd" size=5>I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)](zzh12138@sjtu.edu.cn) if interested :smile:.</font><br /> 
+<font color="#00dddd" size=3>I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)](zzh12138@sjtu.edu.cn) if interested :smile:.</font><br /> 
 ## Research Interests
 
 - **Natural Language Process:** machine translation 

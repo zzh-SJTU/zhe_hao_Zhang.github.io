@@ -9,50 +9,34 @@ special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong Unive
 sufficient experience in research and always be passionate about diving into cutting-edge technology in
 AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
 
+**I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email](zzh12138@sjtu.edu.cn) if interested.**
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Process:** machine translation 
+- **Reinforecement Learning:** multi-agent RL
 
 ## My blog
 
 - My private blog can be found at
 
-## News
+## Skills
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **Programming Languages:** C/C++, Python, MATLAB (ranked by proficiency)
+- **Tools and Frameworks:** Git, GitHub,LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
+- **English ablility:**IELTS overall band score 7.5.
 
-## Publications
+## Experience
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- **multi-agent visual dialog system**
+  Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
+  the exploration methods after that.
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+- **Intern in Stat NLP group**
+  Recently, I have become a research intern in Stat NLP group, under the
+supervision of Prof.Wei Lu. I have learned the classic NLP model such as Word2Vec, Glove, BERT and
+so on. After that, I have built a Seq2Seq model including a multi-layer LSTM encoder and decoder with attention.
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+## Personal
 
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- NBA buff (Laker fans)
+- Politics

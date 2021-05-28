@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Sophomore student at Shanghai Jiao Tong University, my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing) can be found here.
+I am a highly self-motivated sophomore undergraduate from Artificial Intelligence
+special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
+sufficient experience in research and always be passionate about diving into cutting-edge technology in
+AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing)。
 
 ## Research Interests
 

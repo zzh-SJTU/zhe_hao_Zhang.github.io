@@ -9,7 +9,8 @@ special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong Unive
 sufficient experience in research and always be passionate about diving into cutting-edge technology in
 AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
 
-**I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email](zzh12138@sjtu.edu.cn) if interested.**
+
+<font color="#00dddd">**I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email](zzh12138@sjtu.edu.cn) if interested.**</font><br /> 
 ## Research Interests
 
 - **Natural Language Process:** machine translation 

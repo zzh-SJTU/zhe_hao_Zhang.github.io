@@ -37,6 +37,9 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 supervision of Prof.Wei Lu. I have learned the classic NLP model such as Word2Vec, Glove, BERT and
 so on. After that, I have built a Seq2Seq model including a multi-layer LSTM encoder and decoder with attention.
 
+
+## Presentations and Personal Understanding
+
 ## Personal
 
 - NBA buff (Laker fans)

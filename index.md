@@ -39,9 +39,11 @@ so on. After that, I have built a Seq2Seq model including a multi-layer LSTM enc
 
 
 ## Presentations and Personal Understanding
--Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
--Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
--Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
+- Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
+
+- Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
+
+- Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
 
 ## Personal
 

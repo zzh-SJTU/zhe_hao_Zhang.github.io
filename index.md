@@ -39,6 +39,7 @@ so on. After that, I have built a Seq2Seq model including a multi-layer LSTM enc
 
 
 ## Presentations and Personal Understanding
+-Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
 
 ## Personal
 

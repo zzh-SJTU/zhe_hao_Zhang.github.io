@@ -25,7 +25,7 @@ AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com
 - **Programming Languages:** C/C++, Python, MATLAB (ranked by proficiency)
 - **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
 - **English ablility: **IELTS overall band score 7.5.
-https://statnlp-research.github.io/
+
 ## Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
  -Recently, I have become a research intern in Stat NLP group, under the

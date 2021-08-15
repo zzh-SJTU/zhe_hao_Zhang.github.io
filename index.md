@@ -7,14 +7,14 @@ layout: homepage
 I am a highly self-motivated sophomore undergraduate from Artificial Intelligence
 special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
 sufficient experience in research and always be passionate about diving into cutting-edge technology in
-AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
+AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
 
 
-<font color="#00dddd" size=3>I am looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)](zzh12138@sjtu.edu.cn) if interested :smile:.</font><br /> 
+<font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
 ## Research Interests
 
-- **Natural Language Process:** machine translation 
-- **Reinforecement Learning:** multi-agent RL
+- **Natural Language Process:** Machine translation, Transformer, Causal model
+- **Reinforecement Learning:** Multi-agent RL
 
 ## My blog
 
@@ -23,24 +23,27 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 ## Skills
 
 - **Programming Languages:** C/C++, Python, MATLAB (ranked by proficiency)
-- **Tools and Frameworks:** Git, GitHub,LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
-- **English ablility:**IELTS overall band score 7.5.
-
+- **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
+- **English ablility: **IELTS overall band score 7.5.
+https://statnlp-research.github.io/
 ## Experience
+-**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
+ -Recently, I have become a research intern in Stat NLP group, under the
+supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
 
 -**multi-agent visual dialog system**
   -Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
   the exploration methods after that.
-
--**Intern in Stat NLP group**
- -Recently, I have become a research intern in Stat NLP group, under the
-supervision of Prof.Wei Lu. I have learned the classic NLP model such as Word2Vec, Glove, BERT and
-so on. After that, I have built a Seq2Seq model including a multi-layer LSTM encoder and decoder with attention.
-
-
+  
 ## Presentations and Personal Understanding
+- Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
+- Presentation on Counterfactual Vision and Language Learning (CVPR2020), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
+- Presentation on Deep Active Learning For Named Entity Recognition (ICML 2018), slides can be found [here](https://drive.google.com/file/d/1ugIAYoJemOBp6JoUiqymHbx--Tm28tnm/view?usp=sharing).
+- Presentation on Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition(EMNLP2020), slides can be found [here](https://drive.google.com/file/d/1qo4E5SPCMyKByUbuE0XVJV-9lEsseP9S/view?usp=sharing).
+- Presentation on Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention(ICML 2020), slides can be found [here](https://drive.google.com/file/d/1ZEfdmdyZ6EtKnGTDxzevD24p-0ijG2ID/view?usp=sharing).
+- Project report of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese.
 - Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
-
+- Course Project: voice activity aetection: Implement vad with a simple linear classifier and a GMM model. code can be found [here](https://github.com/zzh-SJTU/Voice-Activity-Detection).
 - Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
 
 - Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
@@ -49,3 +52,4 @@ so on. After that, I have built a Seq2Seq model including a multi-layer LSTM enc
 
 - NBA buff (Laker fans)
 - Politics
+- Travelling 

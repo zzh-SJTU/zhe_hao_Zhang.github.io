@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a highly self-motivated sophomore undergraduate from Artificial Intelligence
+I am a highly self-motivated junior undergraduate from Artificial Intelligence
 special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
 sufficient experience in research and always be passionate about diving into cutting-edge technology in
 AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
@@ -24,7 +24,7 @@ AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com
 
 - **Programming Languages:** C/C++, Python, MATLAB (ranked by proficiency)
 - **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
-- **English ablility: **IELTS overall band score 7.5.
+- **English ablility:** IELTS overall band score 7.5.
 
 ## Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**

@@ -45,7 +45,6 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
 - Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
 - Course Project: voice activity aetection: Implement vad with a simple linear classifier and a GMM model. code can be found [here](https://github.com/zzh-SJTU/Voice-Activity-Detection).
 - Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
-
 - Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
 
 ## Personal

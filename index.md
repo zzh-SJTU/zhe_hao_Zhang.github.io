@@ -34,6 +34,13 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
 -**multi-agent visual dialog system**
   -Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
   the exploration methods after that.
+
+## Projects
+
+- Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
+- Implement hough transform (with edge detector, attribute finder) to find circles in several images. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
+- Implement a discounting method for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
+- Project of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese. Code can be found [here](https://github.com/zzh-SJTU/Adversarial-Attacks-project).
   
 ## Presentations and Personal Understanding
 - Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).

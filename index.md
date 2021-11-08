@@ -4,16 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a highly self-motivated junior undergraduate from Artificial Intelligence
+I am a highly self-motivated senior undergraduate from Artificial Intelligence
 special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
 sufficient experience in research and always be passionate about diving into cutting-edge technology in
-AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
+AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4v6p-JXqJ4rrv1kQlSB7B4/view?usp=sharing).
 
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
 ## Research Interests
 
 - **Natural Language Process:** Machine translation, Transformer, Causal model
+- **Deep learning:** continual learning, Domain adaptation
 - **Reinforecement Learning:** Multi-agent RL
 
 ## My blog
@@ -31,9 +32,8 @@ AI (espesially in NLP). Details can be found in my [CV](https://drive.google.com
  -Recently, I have become a research intern in Stat NLP group, under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
 
--**multi-agent visual dialog system**
-  -Under the supervision of Prof. Shuai Li, our team is working on building a multi-agent visual dialog system. I am working deeply into the natural language generation and
-  the exploration methods after that.
+-**Class incremental learning with large doamin shift**
+  -Existing class incremental learning method can not perform well with large domain shift within dataset.Under the supervision of Prof. Shuai Li, our team is working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
 

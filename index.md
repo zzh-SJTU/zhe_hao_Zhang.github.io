@@ -27,7 +27,7 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 - **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
 - **English ablility:** IELTS overall band score 7.5.
 
-## Experience
+## Research Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
  -Recently, I have become a research intern in Stat NLP group, under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.

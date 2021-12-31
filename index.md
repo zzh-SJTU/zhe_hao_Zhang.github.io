@@ -33,7 +33,7 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
 
 -**Class incremental learning with large doamin shift**
-  -Existing class incremental learning method can not perform well with large domain shift within dataset.Under the supervision of Prof. Shuai Li, our team is working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
+  -Existing class incremental learning method can not perform well with large domain shift within dataset. I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
 

@@ -12,10 +12,10 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
 ## Research Interests
-
+- **Computer Vision:** Continual learning
 - **Natural Language Process:** Machine translation, Transformer, Causal model
 - **Deep learning:** continual learning, Domain adaptation
-- **Reinforecement Learning:** Multi-agent RL
+- **Reinforecement Learning:** 
 
 ## My blog
 

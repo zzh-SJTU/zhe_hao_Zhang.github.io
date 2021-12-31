@@ -15,7 +15,7 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 - **Computer Vision:** Continual learning
 - **Natural Language Process:** Machine translation, Transformer, Causal model
 - **Deep learning:** continual learning, Domain adaptation
-- **Reinforecement Learning:** 
+- **Reinforecement Learning** 
 
 ## My blog
 

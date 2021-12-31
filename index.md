@@ -36,7 +36,7 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
   -Existing class incremental learning method can not perform well with large domain shift within dataset. I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
-
+- Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
 - Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
 - Implement hough transform (with edge detector, attribute finder) to find circles in several images. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
 - Implement a discounting method for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).

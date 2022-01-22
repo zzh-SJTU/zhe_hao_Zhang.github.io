@@ -19,21 +19,22 @@ AI. Details can be found in my [CV](https://drive.google.com/file/d/1C-0Tqsn8Jc4
 
 ## My blog
 
-- My private blog can be found at
+- My private blog can be found at 
 
 ## Skills
 
-- **Programming Languages:** C/C++, Python, MATLAB (ranked by proficiency)
+- **Programming Languages:** Python,C/C++, MATLAB (ranked by proficiency)
 - **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
 - **English ablility:** IELTS overall band score 7.5.
 
 ## Research Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
- -Recently, I have become a research intern in Stat NLP group, under the
+ -Under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
 
 -**Class incremental learning with large doamin shift**
-  -Existing class incremental learning method can not perform well with large domain shift within dataset. I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
+  -Existing class incremental learning method can not perform well with large domain shift within dataset. Under the
+supervision of [Prof.Wei Lu](https://shuaili8.github.io), I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
 - Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
@@ -53,6 +54,9 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
 - Course Project: voice activity aetection: Implement vad with a simple linear classifier and a GMM model. code can be found [here](https://github.com/zzh-SJTU/Voice-Activity-Detection).
 - Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
 - Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
+
+## Cources 
+Natural language processing, 
 
 ## Personal
 

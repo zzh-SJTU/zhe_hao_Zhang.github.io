@@ -37,12 +37,17 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
 supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
+- Improve the RNN's performance of SLU (Spoken Language Understanding) using pre-trained BERT and token projection. Code can be found [here](https://github.com/zzh-SJTU/SLU-with-pretrained-model).
+- Implement a simplified version of SIFT including blob detection, computing descriptor, RANSAC algorithm and image alignment. Code can be found [here](https://github.com/zzh-SJTU/SIFT_implement).
+- Implement hough transform to find circles in images. (sequence labeling, edge detector). Code can be found [here](https://github.com/zzh-SJTU/hough_transform).
+- Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
+- Implement discounting algorithm for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
+- Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
+- Implement few algorithms for stream data. Code can be found [here](https://github.com/zzh-SJTU/Stream_algorithm).
 - Propose a new algorithm to improve performance of attributed link prediction. Code can be found [here](https://github.com/zzh-SJTU/Attributed_link_prediction). The paper can be found [here](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/DM_link_prediction.pdf)
 - implement a algorithm to solve digit recognition with imbalanced datasets using paddlepaddle. Code can be found [here](https://github.com/zzh-SJTU/Imbalanced_digit_recogition).
 - Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
 - Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
-- Implement hough transform (with edge detector, attribute finder) to find circles in several images. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
-- Implement a discounting method for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
 - Project of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese. Code can be found [here](https://github.com/zzh-SJTU/Adversarial-Attacks-project).
 ## Presentations and Personal Understanding
 - Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
@@ -51,7 +56,6 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
 - Presentation on Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition(EMNLP2020), slides can be found [here](https://drive.google.com/file/d/1qo4E5SPCMyKByUbuE0XVJV-9lEsseP9S/view?usp=sharing).
 - Presentation on Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention(ICML 2020), slides can be found [here](https://drive.google.com/file/d/1ZEfdmdyZ6EtKnGTDxzevD24p-0ijG2ID/view?usp=sharing).
 - Project report of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese.
-- Derive a algorithm for [cascaded learning](https://drive.google.com/file/d/1J3_aL1RyUGeavMhLwhcXKDmH-PG4iwle/view?usp=sharing)
 - Course Project: voice activity aetection: Implement vad with a simple linear classifier and a GMM model. code can be found [here](https://github.com/zzh-SJTU/Voice-Activity-Detection).
 - Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
 - Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)

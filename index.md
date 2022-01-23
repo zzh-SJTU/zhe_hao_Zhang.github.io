@@ -56,10 +56,11 @@ supervision of [Prof.Wei Lu](https://shuaili8.github.io), I am working on solve 
 - Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
 
 ## Cources 
-Natural language processing, 
-
+# AI/Programing
+Natural language processing (94 points), Deep learning and application (92.95 points)，Computer vision， Reinforcement learning (94 points)， Data structure(Honor)(92 points)， Machine learning，Machine learning project, Artificial intelligence problem solving and practice (95 points)， Intelligent speech recognition (92 points)， Data mining (91 points)，Design and analysis of algorithms, Computer architecture(91 points), Operating system(91 points), Internet of thing(95.5 points), Programming practices of artificial intelligence, Lab Practice
+# Math
+Stochastic process (95 points), Mathematical analysis(Honor), Linear algebra(Honor), Discrete mathematics(Honor), Complex analysis(Honor), Probability and statistics, Convex and linear optimization, Signals and Systems, Digital signal and image processing
 ## Personal
-
 - NBA buff (Laker fans)
 - Politics
 - Travelling 

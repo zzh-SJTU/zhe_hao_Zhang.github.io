@@ -34,15 +34,16 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
 
 -**Class incremental learning with large doamin shift**
   -Existing class incremental learning method can not perform well with large domain shift within dataset. Under the
-supervision of [Prof.Wei Lu](https://shuaili8.github.io), I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
+supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
 ## Projects
+- Propose a new algorithm to improve performance of attributed link prediction. Code can be found [here](https://github.com/zzh-SJTU/Attributed_link_prediction). The paper can be found [here](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/DM_link_prediction.pdf)
+- implement a algorithm to solve digit recognition with imbalanced datasets using paddlepaddle. Code can be found [here](https://github.com/zzh-SJTU/Imbalanced_digit_recogition).
 - Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
 - Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
 - Implement hough transform (with edge detector, attribute finder) to find circles in several images. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
 - Implement a discounting method for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
 - Project of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese. Code can be found [here](https://github.com/zzh-SJTU/Adversarial-Attacks-project).
-  
 ## Presentations and Personal Understanding
 - Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
 - Presentation on Counterfactual Vision and Language Learning (CVPR2020), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).

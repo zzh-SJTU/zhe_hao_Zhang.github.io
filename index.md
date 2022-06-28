@@ -6,8 +6,8 @@ layout: homepage
 
 I am a highly self-motivated senior undergraduate from Artificial Intelligence
 special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
-sufficient experience in research and always be passionate about diving into cutting-edge technology in
-AI. Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.1.pdf).
+sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in
+AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.1.pdf).
 
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 

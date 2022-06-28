@@ -12,19 +12,15 @@ AI. Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.git
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
 ## Research Interests
-- **Computer Vision:** Continual learning
-- **Natural Language Process:** Machine translation, Transformer, Causal model
-- **Deep learning:** continual learning, Domain adaptation
-- **Reinforecement Learning** 
-
-## My blog
-
-- My private blog can be found at 
+- **Natural Language Process:** Prompt design and transfer.
+- **Deep learning:** Continual learning
+## Publications
+- EMNLP 2022 in submission. (First author)
 
 ## Skills
 
 - **Programming Languages:** Python,C/C++, MATLAB (ranked by proficiency)
-- **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV.
+- **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
 - **English ablility:** IELTS overall band score 7.5.
 
 ## Research Experience

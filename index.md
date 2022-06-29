@@ -35,18 +35,22 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
 
 ## Projects
 - Natural Language Processing
+    - Named Entity Recognition for Chinese medical sentences using Roberta + FLAT + Adversarial training. Particiate in [CBLUE(Chinese Biomedical Language Understanding Evaluation)](https://tianchi.aliyun.com/cblue). The project can be found [here](https://github.com/zzh-SJTU/NER_Chinese_medical).
+    - Compare different models (LSTM, GRU, Transformer) in language modeling with limited data. Code can be found [here](https://github.com/zzh-SJTU/language_modeling).
     - Improve the RNN's performance of SLU (Spoken Language Understanding) using pre-trained BERT and token projection. Code can be found [here](https://github.com/zzh-SJTU/SLU-with-pretrained-model).
-- Implement a simplified version of SIFT including blob detection, computing descriptor, RANSAC algorithm and image alignment. Code can be found [here](https://github.com/zzh-SJTU/SIFT_implement).
-- Implement hough transform to find circles in images. (sequence labeling, edge detector). Code can be found [here](https://github.com/zzh-SJTU/hough_transform).
-- Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
-- Implement discounting algorithm for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
-- Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
-- Implement few algorithms for stream data. Code can be found [here](https://github.com/zzh-SJTU/Stream_algorithm).
-- Propose a new algorithm to improve performance of attributed link prediction. Code can be found [here](https://github.com/zzh-SJTU/Attributed_link_prediction). The paper can be found [here](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/DM_link_prediction.pdf)
-- implement a algorithm to solve digit recognition with imbalanced datasets using paddlepaddle. Code can be found [here](https://github.com/zzh-SJTU/Imbalanced_digit_recogition).
-- Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
-- Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
-- Project of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese. Code can be found [here](https://github.com/zzh-SJTU/Adversarial-Attacks-project).
+    - Implement transformer for machine translation with WMT14 dataset. Code can be found [here](https://github.com/zzh-SJTU/data_pre-process_translation).
+    - Implement discounting algorithm for language model. Code can be found [here](https://github.com/zzh-SJTU/Discounting).
+- Computer Vision
+    - Implement a simplified version of SIFT including blob detection, computing descriptor, RANSAC algorithm and image alignment. Code can be found [here](https://github.com/zzh-SJTU/SIFT_implement).
+    - Implement hough transform to find circles in images. (sequence labeling, edge detector). Code can be found [here](https://github.com/zzh-SJTU/hough_transform).
+    - Implement a new algorithm to solve catastrophic forgetting in the setting of class incremental learning with domain shift.
+    - Implement a algorithm to solve digit recognition with imbalanced datasets using paddlepaddle. Code can be found [here](https://github.com/zzh-SJTU/Imbalanced_digit_recogition).
+    - Project of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese. Code can be found [here](https://github.com/zzh-SJTU/Adversarial-Attacks-project).
+- Data Mining
+    - Propose a new algorithm to improve performance of attributed link prediction. Code can be found [here](https://github.com/zzh-SJTU/Attributed_link_prediction). The paper can be found [here](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/DM_link_prediction.pdf)
+    - Implement few algorithms for stream data. Code can be found [here](https://github.com/zzh-SJTU/Stream_algorithm).
+    - Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
+    - Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
 ## Presentations and Personal Understanding
 - Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
 - Presentation on Counterfactual Vision and Language Learning (CVPR2020), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).

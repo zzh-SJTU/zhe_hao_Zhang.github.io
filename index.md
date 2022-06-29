@@ -12,17 +12,17 @@ AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
 ## Research Interests
-- **Natural Language Process:** Prompt design and transfer.
-- **Deep learning:** Continual learning
+- **Natural Language Process:**   Prompt design and transfer.
+- **Deep learning:**   Continual learning
 
 ## Publications
 - EMNLP 2022 in submission. (First author)
 
 ## Skills
 
-- **Programming Languages:** Python,C/C++, MATLAB (ranked by proficiency)
-- **Tools and Frameworks:** Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
-- **English ablility:** IELTS overall band score 7.5.
+- **Programming Languages:**   Python,C/C++, MATLAB (ranked by proficiency)
+- **Tools and Frameworks:**   Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
+- **English ablility:**   IELTS overall band score 7.5.
 
 ## Research Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**

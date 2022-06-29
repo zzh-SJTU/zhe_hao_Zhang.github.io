@@ -35,7 +35,7 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
 
 ## Projects
 - Natural Language Processing
--- Improve the RNN's performance of SLU (Spoken Language Understanding) using pre-trained BERT and token projection. Code can be found [here](https://github.com/zzh-SJTU/SLU-with-pretrained-model).
+    - Improve the RNN's performance of SLU (Spoken Language Understanding) using pre-trained BERT and token projection. Code can be found [here](https://github.com/zzh-SJTU/SLU-with-pretrained-model).
 - Implement a simplified version of SIFT including blob detection, computing descriptor, RANSAC algorithm and image alignment. Code can be found [here](https://github.com/zzh-SJTU/SIFT_implement).
 - Implement hough transform to find circles in images. (sequence labeling, edge detector). Code can be found [here](https://github.com/zzh-SJTU/hough_transform).
 - Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).

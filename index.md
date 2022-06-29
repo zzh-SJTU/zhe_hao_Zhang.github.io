@@ -64,7 +64,7 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
 
 ## Cources 
 # AI/Programing
-Natural language processing (94 points), Deep learning and application (92.95 points)，Computer vision， Reinforcement learning (94 points)， Data structure(Honor)(92 points)， Machine learning，Machine learning project, Artificial intelligence problem solving and practice (95 points)， Intelligent speech recognition (92 points)， Data mining (91 points)，Design and analysis of algorithms, Computer architecture(91 points), Operating system(91 points), Internet of thing(95.5 points), Programming practices of artificial intelligence, Lab Practice
+Natural language processing (94 points), Deep learning and application (92.95 points)，Computer vision， Reinforcement learning (94 points)， Data structure(Honor)(92 points)， Machine learning，Machine learning project, Knowledge representation and reasoning (97 points), A practical course to intelligence perception and cognition (90 points), Brain-Inspired Intelligence (92 points), Artificial intelligence problem solving and practice (95 points)， Intelligent speech recognition (92 points)， Data mining (91 points), Game theory and multi-agent learning, Design and analysis of algorithms, Computer architecture(91 points), Operating system(91 points), Internet of thing(95.5 points), Programming practices of artificial intelligence, Lab practice (A+)
 # Math
 Stochastic process (95 points), Mathematical analysis(Honor), Linear algebra(Honor), Discrete mathematics(Honor), Complex analysis(Honor), Probability and statistics, Convex and linear optimization, Signals and Systems, Digital signal and image processing
 ## Personal

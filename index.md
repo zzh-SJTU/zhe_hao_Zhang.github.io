@@ -51,17 +51,6 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
     - Implement few algorithms for stream data. Code can be found [here](https://github.com/zzh-SJTU/Stream_algorithm).
     - Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
     - Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
-## Presentations and Personal Understanding
-- Presentation on Low-Rank Bottleneck in Multi-head Attention Models (ICML 2021), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
-- Presentation on Counterfactual Vision and Language Learning (CVPR2020), slides can be found [here](https://drive.google.com/file/d/1mlL42WFlJtdFqhDhxlOzwhwD58JkY0NW/view?usp=sharing).
-- Presentation on Deep Active Learning For Named Entity Recognition (ICML 2018), slides can be found [here](https://drive.google.com/file/d/1ugIAYoJemOBp6JoUiqymHbx--Tm28tnm/view?usp=sharing).
-- Presentation on Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition(EMNLP2020), slides can be found [here](https://drive.google.com/file/d/1qo4E5SPCMyKByUbuE0XVJV-9lEsseP9S/view?usp=sharing).
-- Presentation on Transformers are RNNs:Fast Autoregressive Transformers with Linear Attention(ICML 2020), slides can be found [here](https://drive.google.com/file/d/1ZEfdmdyZ6EtKnGTDxzevD24p-0ijG2ID/view?usp=sharing).
-- Project report of machine learning course project on [adversarial attack](https://drive.google.com/file/d/1UyfomQD2o9VoTRszNrMnbIuPy321HEEu/view?usp=sharing) and [defence](https://drive.google.com/file/d/1Q-riEHaQwHDhv2VotrC7k88khkp8h7-n/view?usp=sharing) in Chinese.
-- Course Project: voice activity aetection: Implement vad with a simple linear classifier and a GMM model. code can be found [here](https://github.com/zzh-SJTU/Voice-Activity-Detection).
-- Derive [EM algorithm](https://drive.google.com/file/d/1Iaz7vO08kuaKoWZAqlZVY1CLU8gF66Hj/view?usp=sharing) by hand for GMM-HMM model
-- Dervie the [Back propagation of traditional RNN](https://drive.google.com/file/d/1Eq-PIQOQ2z5N9QLwEKsklN1aX4cplEaR/view?usp=sharing)
-
 ## Cources 
 # AI/Programing
 Natural language processing (94 points), Deep learning and application (92.95 points)，Computer vision， Reinforcement learning (94 points)， Data structure(Honor)(92 points)， Machine learning，Machine learning project, Knowledge representation and reasoning (97 points), A practical course to intelligence perception and cognition (90 points), Brain-Inspired Intelligence (92 points), Artificial intelligence problem solving and practice (95 points)， Intelligent speech recognition (92 points)， Data mining (91 points), Game theory and multi-agent learning, Design and analysis of algorithms, Computer architecture(91 points), Operating system(91 points), Internet of thing(95.5 points), Programming practices of artificial intelligence, Lab practice (A+)

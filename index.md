@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+# About Me
 
 I am a highly self-motivated senior undergraduate from Artificial Intelligence
 special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
@@ -11,20 +11,21 @@ AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.
 
 
 <font color="#00dddd" size=3>I am always looking forword to chances of research assistant or intern in AI groups all over the world. Please contact me through [Email(zzh12138@sjtu.edu.cn)]if interested :smile:.</font><br /> 
-## Research Interests
+
+# Research Interests
 - **Natural Language Process:**   Prompt design and transfer.
 - **Deep learning:**   Continual learning
 
-## Publications
+# Publications
 - EMNLP 2022 in submission. (First author)
 
-## Skills
+# Skills
 
 - **Programming Languages:**   Python,C/C++, MATLAB (ranked by proficiency)
 - **Tools and Frameworks:**   Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
 - **English ablility:**   IELTS overall band score 7.5.
 
-## Research Experience
+# Research Experience
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
  -Under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
@@ -33,7 +34,7 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I
   -Existing class incremental learning method can not perform well with large domain shift within dataset. Under the
 supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solve the catastrophic forgetting problem with large domain shift for the task of image classification.
 
-## Projects
+# Projects
 - Natural Language Processing
     - Named Entity Recognition for Chinese medical sentences using Roberta + FLAT + Adversarial training. Particiate in [CBLUE(Chinese Biomedical Language Understanding Evaluation)](https://tianchi.aliyun.com/cblue). The project can be found [here](https://github.com/zzh-SJTU/NER_Chinese_medical).
     - Compare different models (LSTM, GRU, Transformer) in language modeling with limited data. Code can be found [here](https://github.com/zzh-SJTU/language_modeling).
@@ -52,12 +53,8 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
     - Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
     - Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
  
-## Cources 
-# AI/Programing
+# Cources 
+## AI/Programing
 Natural language processing (94 points), Deep learning and application (92.95 points)，Computer vision， Reinforcement learning (94 points)， Data structure(Honor)(92 points)， Machine learning，Machine learning project, Knowledge representation and reasoning (97 points), A practical course to intelligence perception and cognition (90 points), Brain-Inspired Intelligence (92 points), Artificial intelligence problem solving and practice (95 points)， Intelligent speech recognition (92 points)， Data mining (91 points), Game theory and multi-agent learning, Design and analysis of algorithms, Computer architecture(91 points), Operating system(91 points), Internet of thing(95.5 points), Programming practices of artificial intelligence, Lab practice (A+)
-# Math
+## Math
 Stochastic process (95 points), Mathematical analysis(Honor), Linear algebra(Honor), Discrete mathematics(Honor), Complex analysis(Honor), Probability and statistics, Convex and linear optimization, Signals and Systems, Digital signal and image processing
-## Personal
-- NBA buff (Laker fans)
-- Politics
-- Travelling 

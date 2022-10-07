@@ -17,7 +17,7 @@ AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.
 - **Deep learning:**   Continual learning
 
 # Publications
-- EMNLP 2022 in submission. (First author)
+- WWW 2023 in submission. (First author)
 
 # Skills
 

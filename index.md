@@ -4,8 +4,8 @@ layout: homepage
 
 # About Me
 
-I am a highly self-motivated senior undergraduate from Artificial Intelligence
-special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I worded as a research assistant at Shanghai Jiao Tong University advised by [Prof.Shuai Li](https://shuaili8.github.io), Singapore University of Technology and Design advised by [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), and Stanford University working with [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/). I had
+I am a highly self-motivated senior undergraduate from **Artificial Intelligence**
+special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I worded as a research assistant at **Shanghai Jiao Tong University** advised by [Prof.Shuai Li](https://shuaili8.github.io), **Singapore University of Technology and Design** advised by [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), and **Stanford University** working with [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/). I had
 sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.11.22.pdf).
 
 

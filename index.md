@@ -5,24 +5,22 @@ layout: homepage
 # About Me
 
 I am a highly self-motivated senior undergraduate from Artificial Intelligence
-special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I had
-sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in
-AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.1.pdf).
+special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I worded as a research assistant at Shanghai Jiao Tong University advised by [Prof.Shuai Li](https://shuaili8.github.io), Singapore University of Technology and Design advised by [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), and Stanford University working with [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/). I had
+sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.11.22.pdf).
+
 
 # Research Interests
 - **Natural Language Process:**   Efficient Tuning of Pretrained Language Models (PLM), Roubstness of NLP models, Computational Social Science
 - **Deep learning:**   Continual Learning, Transfer Learning
 
 # Publications
-- [1] \textbf{Zhehao Zhang}, Handong Zhao, Tong Yu, Shuai Li. 2022. Exploring Soft Prompt Initialization Strategy for Few-shot Continual Text Classification, Currently Under Review for \textit{The Web Conference 2023}
-
-# Skills
-
-- **Programming Languages:**   Python,C/C++, MATLAB (ranked by proficiency)
-- **Tools and Frameworks:**   Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
-- **English ablility:**   IELTS overall band score 7.5.
+- [1] **Zhehao Zhang**, Handong Zhao, Tong Yu, Shuai Li. 2022. Exploring Soft Prompt Initialization Strategy for Few-shot Continual Text Classification, Currently Under Review for *The Web Conference 2023*
 
 # Research Experience
+--**Research Assistant in Social and Language Technologies (SALT) Lab**
+ -Under the
+supervision of [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/), We Utilized grammar induction and mutual information to search for biased grammar patterns on hate speech detection datasets. Analyzed the spuriousness of biased patterns, discovered identity biases using causal interference, and then proposed a method to mitigate such biases using a Multi-Task Intervention (MTI) and Data-Specific Intervention (DSI) based on the confounders. 
+ -Validated the effectiveness of the method by running experiments and analyzing the results across 10 hate speech detection datasets with out-of-domain challenge set to reach positive conclusions on its use for reducing hate speech bias. **Over 5\%** F-1 score improvement indicates the effectiveness of our method. This work will be submitted to **ACL 2023**.
 -**Intern in [Stat NLP group](https://statnlp-research.github.io/)**
  -Under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei). Recently, I am working on interpretability of transformer and attention mechanism.
@@ -49,6 +47,12 @@ supervision of [Prof.Shuai Li](https://shuaili8.github.io), I am working on solv
     - Implement few algorithms for stream data. Code can be found [here](https://github.com/zzh-SJTU/Stream_algorithm).
     - Implement DeepWalk algorithm for link prediction. Code can be found [here](https://github.com/zzh-SJTU/link_prediction).
     - Implement Louvain algorithm for community detection. Code can be found [here](https://github.com/zzh-SJTU/Community_detection).
+
+# Skills
+
+- **Programming Languages:**   Python,C/C++, MATLAB (ranked by proficiency)
+- **Tools and Frameworks:**   Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
+- **English ablility:**   IELTS overall band score 7.5.
  
 # Cources 
 ## AI/Programing

@@ -18,18 +18,18 @@ sufficient experience in NLP research and always be passionate about diving into
 
 # Research Experience
 --**Research Assistant in Social and Language Technologies (SALT) Lab**
- -Under the
+- Under the
 supervision of [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/), We Utilized grammar induction and mutual information to search for biased grammar patterns on hate speech detection datasets. Analyzed the spuriousness of biased patterns, discovered identity biases using causal interference, and then proposed a method to mitigate such biases using a Multi-Task Intervention (MTI) and Data-Specific Intervention (DSI) based on the confounders. 
- -Validated the effectiveness of the method by running experiments and analyzing the results across 10 hate speech detection datasets with out-of-domain challenge set to reach positive conclusions on its use for reducing hate speech bias. **Over 5%** F-1 score improvement indicates the effectiveness of our method. This work will be submitted to **ACL 2023**.
+- Validated the effectiveness of the method by running experiments and analyzing the results across 10 hate speech detection datasets with out-of-domain challenge set to reach positive conclusions on its use for reducing hate speech bias. **Over 5%** F-1 score improvement indicates the effectiveness of our method. This work will be submitted to **ACL 2023**.
  
 -**Research Assistant in [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/)**
- -Under the
+- Under the
 supervision of [Prof.Shuai Li](https://shuaili8.github.io), I introduced context and label space information for prompt initialization in the setting of few-shot continual learning with state-of-the-art performance (**20.95% accuracy improvement** in 4-shot setting) in commonly-used text classification benchmarks. Successfully addressed catastrophic forgetting and fast adaptation simultaneously and submitted the work to **The Web Conference (WWW) 2023**..
  
 -**Research Assistant in [Stat NLP group](https://statnlp-research.github.io/)**
- -Under the
+- Under the
 supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), I systematically analyzed the architecture of Transformers and its variants (e.g., Linear Transformers) to implement a proof of concept  model from scratch for machine translation on WMT14 datasets, with comparative performance (bleu and perplexity) to the original.
- -Studied and presented the explainability of neural networks, especially from Neural Tangent Kernel’s perspective (NTK) through 4 comprehensive English oral presentations to Stat group meetings of over 30 members with strong positive feedback.
+- Studied and presented the explainability of neural networks, especially from Neural Tangent Kernel’s perspective (NTK) through 4 comprehensive English oral presentations to Stat group meetings of over 30 members with strong positive feedback.
 
 
 

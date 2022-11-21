@@ -17,7 +17,7 @@ sufficient experience in NLP research and always be passionate about diving into
 - [1] **Zhehao Zhang**, Handong Zhao, Tong Yu, Shuai Li. 2022. Exploring Soft Prompt Initialization Strategy for Few-shot Continual Text Classification, Currently Under Review for *The Web Conference 2023*
 
 # Research Experience
---**Research Assistant in Social and Language Technologies (SALT) Lab** ![image](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/Stanford-University-Logo.png)
+--**Research Assistant in Social and Language Technologies (SALT) Lab** <img src= https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/Stanford-University-Logo.png width="350" height="200" align= "middle"/>
 - Under the
 supervision of [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/), We Utilized grammar induction and mutual information to search for biased grammar patterns on hate speech detection datasets. Analyzed the spuriousness of biased patterns, discovered identity biases using causal interference, and then proposed a method to mitigate such biases using a Multi-Task Intervention (MTI) and Data-Specific Intervention (DSI) based on the confounders. 
 - Validated the effectiveness of the method by running experiments and analyzing the results across 10 hate speech detection datasets with out-of-domain challenge set to reach positive conclusions on its use for reducing hate speech bias. **Over 5%** F-1 score improvement indicates the effectiveness of our method. This work will be submitted to **ACL 2023**.

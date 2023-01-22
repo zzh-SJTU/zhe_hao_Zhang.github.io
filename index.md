@@ -16,7 +16,7 @@ I am a senior undergraduate from **Artificial Intelligence** class and Zhiyuan h
 - [2] **Zhehao Zhang**, Jiaao Chen, Diyi Yang. 2023. Mitigating Biases in Hate Speech Detection from A Causal Perspective, Currently Under Review for *The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*
 
 # Industry Experience
---**Research Intern in Data, Knowledge, and Intelligence Lab** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/assets/img/micro.png" width="100" height="100" align = "middle" />
+--**Research Intern in Data, Knowledge, and Intelligence Lab** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/assets/img/Microsoft_logo_(2012)_modified.png" width="100" height="100" align = "middle" />
 - Explore Large Language Models'(e.g., GPT-3, Instruct-GPT, etc.) reasoning ability on implicit structured data. Working on constructing a large-scale Table-based implicit Question Answering dataset which requires the model to have multi-step complex reasoning capability.
 # Research Experience
 --**Research Assistant in Social and Language Technologies (SALT) Lab** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/Stanford-University-Logo.png" width="170" height="100" align = "middle" />

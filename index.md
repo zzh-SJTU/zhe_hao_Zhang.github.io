@@ -4,17 +4,19 @@ layout: homepage
 
 # About Me
 
-I am a highly self-motivated senior undergraduate from **Artificial Intelligence**
-special class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. I worded as a research assistant at **Shanghai Jiao Tong University** advised by [Prof.Shuai Li](https://shuaili8.github.io), **Singapore University of Technology and Design** advised by [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), and **Stanford University** working with [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/). I had
-sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.11.22.pdf).
+I am a senior undergraduate from **Artificial Intelligence** class and Zhiyuan honor Program in Engineering, Shanghai Jiao Tong University. Cuurently, I worked as a research intern at [Microsoft Research Asia](https://www.msra.cn/) mentored by Dr.[Yan Gao](https://www.microsoft.com/en-us/research/people/gaoya/). Previously, I worded as a research assistant at **Stanford University** working with [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/), **Singapore University of Technology and Design** advised by [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), and **Shanghai Jiao Tong University** advised by [Prof.Shuai Li](https://shuaili8.github.io). I had sufficient experience in NLP research and always be passionate about diving into cutting-edge technology in AI (especially in NLP). Details can be found in my [CV](https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/CV_2022.11.22.pdf).
 
 
 # Research Interests
-- **Natural Language Process:**   Efficient Tuning of Pretrained Language Models (PLM), Roubstness of NLP models, Computational Social Science
-- **Deep learning:**   Continual Learning, Transfer Learning
+- **Natural Language Process:**   Efficient Tuning and Reasoning of Large Language Models (LLM), Roubstness of NLP models, Computational Social Science
+- **Machine learning:**   Continual Learning, Transfer Learning
 
 # Publications
-- [1] **Zhehao Zhang**, Handong Zhao, Tong Yu, Shuai Li. 2022. Exploring Soft Prompt Initialization Strategy for Few-shot Continual Text Classification, Currently Under Review for *The Web Conference 2023*
+- [1] **Zhehao Zhang**, Handong Zhao, Tong Yu, Shuai Li. 2023. Exploring Soft Prompt Initialization Strategy for Few-shot Continual Text Classification, Currently Under Review for *The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*
+- [2] **Zhehao Zhang**, Jiaao Chen, Diyi Yang. 2023. Mitigating Biases in Hate Speech Detection from A Causal Perspective, Currently Under Review for *The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*
+
+# Industry Experience
+--**Research Intern in Data, Knowledge, and Intelligence Lab** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/Stanford-University-Logo.png" width="170" height="100" align = "middle" />
 
 # Research Experience
 --**Research Assistant in Social and Language Technologies (SALT) Lab** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/Stanford-University-Logo.png" width="170" height="100" align = "middle" />
@@ -24,7 +26,7 @@ supervision of [Prof.Diyi Yang](https://cs.stanford.edu/~diyiy/), We Utilized gr
  
 -**Research Assistant in [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/)** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/SJTU.png" width="220" height="50" align = "middle" />
 - Under the
-supervision of [Prof.Shuai Li](https://shuaili8.github.io), I introduced context and label space information for prompt initialization in the setting of few-shot continual learning with state-of-the-art performance (**20.95% accuracy improvement** in 4-shot setting) in commonly-used text classification benchmarks. Successfully addressed catastrophic forgetting and fast adaptation simultaneously and submitted the work to **The Web Conference (WWW) 2023**..
+supervision of [Prof.Shuai Li](https://shuaili8.github.io), I introduced context and label space information for prompt initialization in the setting of few-shot continual learning with state-of-the-art performance (**20.95% accuracy improvement** in 4-shot setting) in commonly-used text classification benchmarks. Successfully addressed catastrophic forgetting and fast adaptation simultaneously and submitted the work to **ACL 2023**..
  
 -**Research Assistant in [Stat NLP group](https://statnlp-research.github.io/)** <img src="https://zzh-sjtu.github.io/zhe_hao_Zhang.github.io/script/SUTD_logo.png" width="190" height="50" align = "middle" />
 - Under the
@@ -56,7 +58,7 @@ supervision of [Prof.Wei Lu](http://www.statnlp.org/faculty/lu_wei), I systemati
 
 - **Programming Languages:**   Python,C/C++, MATLAB (ranked by proficiency)
 - **Tools and Frameworks:**   Git, GitHub, LATEX, PyTorch, Numpy, Scikit-learn, OpenCV, huggingface transformers.
-- **English ablility:**   IELTS overall band score 7.5.
+- **Spoken Language:** English (IELTS overall band score 7.5), Mandarin
  
 # Cources 
 ## AI/Programing
